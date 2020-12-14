@@ -54,6 +54,7 @@ var questions = [
     new Question("Currency of India?", ["Dollar", "Rupee","Euro", "Pound"], "Rupee"),
         
     new Question("Currency of Indonesia ?", ["Rupiah", "Rupee","Euro", "Pound"], "Rupiah"),
+    new Question(" Siapa presiden Indonesia ke 7  ?", ["Jokowi", "SBY","Habibie", "Suharto"], "Jokowi"),
 
 ];
 
